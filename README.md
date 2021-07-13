@@ -1,5 +1,4 @@
-### Hi there 👋
-# 코딩 힘들다...
+# 코딩 잘하고 싶네요
 
 <!--
 **JH-TT/JH-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
