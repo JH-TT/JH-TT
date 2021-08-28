@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23808FD5&title_bg=%23272525&icon=&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH-TT&count_bg=%23808FD5&title_bg=%23272525&icon=&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
 # 코딩 잘하고 싶네요
 
 <!--
