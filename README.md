@@ -2,6 +2,6 @@
 # 코딩 잘하고 싶네요
 
 ![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH-TT&show_icons=true&theme=dark)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JH-TT&layout=compact&theme=dark)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JH-TT&layout=compact&theme=dark)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwhdgh98)](https://solved.ac/dlwhdgh98)   
