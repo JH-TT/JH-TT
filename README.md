@@ -33,4 +33,9 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwhdgh98)](https://solved.ac/dlwhdgh98)
   <img src="http://mazandi.herokuapp.com/api?handle=dlwhdgh98&theme=warm"/>
+  
+  <h2>그 외</h2>
+  네이버 부스트 캠프(7.18 ~ 8.12)<br>
 </div>
+
+
