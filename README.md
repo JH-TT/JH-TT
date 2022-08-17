@@ -35,7 +35,7 @@
   <img src="http://mazandi.herokuapp.com/api?handle=dlwhdgh98&theme=warm"/>
   
   <h2>그 외</h2>
-  네이버 부스트 캠프(7.18 ~ 8.12)<br>
+  <a href="https://github.com/JH-TT/BoostCamp/blob/main/challenge.PNG">네이버 부스트캠프</a> (7.18 ~ 8.12)<br>
 </div>
 
 
