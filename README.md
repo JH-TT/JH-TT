@@ -4,8 +4,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH-TT%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   # LeeJongHo's Github :tada:
 
-  ![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH-TT&show_icons=true&theme=dark)   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JH-TT&layout=compact&theme=dark)
+  ![JH's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JH-TT&show_icons=true&theme=dark)   
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JH-TT&layout=compact&theme=dark)
   
   <h2>Stack:books:</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
