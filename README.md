@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WelCome!&animation=scaleIn&fontSize=90)
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH-TT%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   # LeeJongHo's Github :tada:
 
   ![JH's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JH-TT&show_icons=true&theme=dark)   
