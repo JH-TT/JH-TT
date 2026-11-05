@@ -6,7 +6,7 @@
   ![JH's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JH-TT&show_icons=true&theme=dark)   
   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JH-TT&layout=compact&theme=dark)
   
-  <h2>Stack:books:</h2>
+  <h2>Stack :books:</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -23,15 +23,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  
-  <h2>BOJ:trophy:</h2>
-  
-  <br>[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlwhdgh98)](https://solved.ac/dlwhdgh98)</br>
-  <br></br>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwhdgh98)](https://solved.ac/dlwhdgh98)
-  <img src="http://mazandi.herokuapp.com/api?handle=dlwhdgh98&theme=warm"/>
   
   <h2>그 외</h2>
   <a href="https://github.com/JH-TT/BoostCamp/blob/main/challenge.PNG">네이버 부스트캠프 챌린지</a> (7.18 ~ 8.12)<br>
